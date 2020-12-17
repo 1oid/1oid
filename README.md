@@ -8,5 +8,5 @@ ___
 
 
 🤖 **Github State**
-- :star2: Total State: ![GitHub User's stars](https://img.shields.io/github/stars/1oid?style=social)
+- :star2: Total State:   ![GitHub User's stars](https://img.shields.io/github/stars/1oid?style=social)
 - Total Commits(2020): 
