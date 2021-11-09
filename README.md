@@ -8,5 +8,5 @@ ___
 
 
 🤖 **Github State**
-- :star2: Total State:   ![GitHub User's stars](https://img.shields.io/github/stars/1oid?style=social)
-- Total Commits(2020): 
+![1oid's GitHub stats](https://github-readme-stats.vercel.app/api?username=1oid)
+
